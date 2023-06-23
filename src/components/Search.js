@@ -5,7 +5,6 @@ import "../styles/search.css";
 
 const Search = ({ setSearchResults }) => {
   const [value, setValue] = useState();
-
   const handleSubmit = (event) => {
     event.preventDefault();
     setSearchResults(getImages(value));
