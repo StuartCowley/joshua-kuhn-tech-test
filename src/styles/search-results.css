@@ -1,10 +1,19 @@
 p {
   text-align: center;
+  font-size: 24px;
+  font-weight: bold;
 }
 
-.card-image {
+.image-container {
   margin: 1rem;
-  width: 20%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.space-image {
+  margin: 1rem;
+  width: 15%;
   border-radius: 30px;
   object-fit: cover;
   aspect-ratio: 1/1;
