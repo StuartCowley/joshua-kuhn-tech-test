@@ -1,6 +1,8 @@
 <h1>React Technical Test - NASA Search</h1>
 
-<img src="./src/images/preview.png" alt="screenshot preview" style="width: 30vw;" />
+<div style="display: flex; justify-content: center;">
+  <img src="./src/images/preview.png" alt="screenshot preview" style="width: 50vw;" />
+</div>
 
 <p>This is an application built with create-react-app that allows users to search for images based on a query relating to space.</p>
 
