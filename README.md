@@ -39,5 +39,5 @@ Start the application:
 
 <p>In the future, I would like to add even more functionality and styling to my NASA Search. These functionalities might include returning other media from the search, and additional support for mobile screens.</p>
 
-<br />
-<h3>Made By Joshua Kuhn</h3>
+<br/>
+<h2>Made By Joshua Kuhn</h2>
