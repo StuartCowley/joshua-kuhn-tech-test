@@ -37,6 +37,6 @@ Start the application:
 
 <h3>Future Contributions</h3>
 
-<p>In the future, I would like to add even more functionality and styling to my NASA Search. These functionalities might include returning and playing video files from the search, and additional support for mobile screens.</p>
+<p>In the future, I would like to add even more functionality and styling to my NASA Search. These functionalities might include returning other media from the search, and additional support for mobile screens.</p>
 
 <h3>Made By Joshua Kuhn</h3>
