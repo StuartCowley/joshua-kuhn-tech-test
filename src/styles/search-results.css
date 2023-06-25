@@ -18,4 +18,9 @@ p {
   object-fit: cover;
   aspect-ratio: 1/1;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.75);
+  transition: transform 0.3s;
+}
+
+.space-image:hover {
+  transform: scale(1.2);
 }

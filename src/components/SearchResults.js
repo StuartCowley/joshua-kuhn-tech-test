@@ -7,7 +7,7 @@ const SearchResults = ({ results }) => {
     return <p>No results found!</p>;
   } else {
     return (
-      <div className="image-container">
+      <div className="image-container" data-testid="image-container">
         {results.map((image, index) => (
           <img
             key={index}
