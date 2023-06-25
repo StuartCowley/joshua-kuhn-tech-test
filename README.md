@@ -35,13 +35,8 @@ Start the application:
 
 <p>To use the app, simply enter your search query in the search input field and click the "Search" button. The app will fetch and display relevant images based on your search query.</p>
 
-<h3>Contributing</h3>
+<h3>Future Contributions</h3>
 
-<p>Contributions are welcome! If you'd like to contribute to the Tech Test, please follow these guidelines:</p>
+<p>In the future, I would like to add even more functionality and styling to my NASA Search. These functionalities might include returning and playing video files from the search, and additional support for mobile screens.</p>
 
-<ul>
-  <li>Fork the repository</li>
-  <li>Create a new branch</li>
-  <li>Make your changes</li>
-  <li>Submit a pull request</li>
-</ul>
+<h3>Made By Joshua Kuhn</h3>
