@@ -3,6 +3,12 @@ import { render, screen } from "@testing-library/react";
 import SearchResults from "../components/SearchResults";
 
 describe("SearchResults", () => {
+  it("renders correctly", () => {
+    const { asFragment } = render(<SearchResults results={[]} />);
+
+    expect(asFragment()).toMatchSnapshot();
+  });
+
   it("renders 'No results found!' when results array is empty", () => {
     render(<SearchResults results={[]} />);
 
